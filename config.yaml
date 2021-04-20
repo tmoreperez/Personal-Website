@@ -5,7 +5,7 @@ theme: "starter-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'TM Perez' # Website name
-baseurl: 'https://tmoreperez.github.io' # Website URL https://tmoreperez.github.io #https://www.timothymperez.com/
+baseurl: 'https://www.timothymperez.com/' # Website URL https://tmoreperez.github.io 
 copyright: '2021' # Footer text, e.g. '© {2021} Timothy Perez'
 
 ############################
